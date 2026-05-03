@@ -8,9 +8,11 @@ Tema: diseños de investigación cuantitativos, cualitativos y mixtos.
 
 Repositorio: `CaptainKranch/Actividad-6---El-dise-o-de-investigaci-n-m-ltiples-posibilidades`
 
-URL esperada cuando GitHub Pages esté habilitado:
+URL publicada con GitHub Pages:
 
-https://captainkranch.github.io/Actividad-6---El-dise-o-de-investigaci-n-m-ltiples-posibilidades/
+https://danielgarciamedina.github.io/Actividad-6---El-dise-o-de-investigaci-n-m-ltiples-posibilidades/
+
+Nota: el repositorio original de CaptainKranch está vacío pero la cuenta autenticada localmente solo tiene permiso READ allí; por eso se publicó una copia funcional bajo `danielgarciamedina`.
 
 ## Contenido incluido
 
