@@ -1,0 +1,152 @@
+MODELOS DIDÁCTICOS DE RECOLECCIÓN DE DATOS
+Autor: Daniel Garcia Medina
+Actividad 6 — Competencias investigativas — 8 de noviembre de 2026
+
+Estos modelos son de elaboración propia. Se basan en las decisiones de diseño
+explicadas por Hernández-Sampieri y Mendoza Torres (2018) y Ñaupas Paitán et al.
+(2018). No son instrumentos validados. No contienen datos de participantes.
+
+Antes de aplicarlos:
+- Definir la pregunta, la unidad de análisis y el contexto.
+- Revisar su contenido con personas conocedoras del tema.
+- Realizar una prueba piloto de comprensión y registro.
+- Ajustar las instrucciones y conservar un número de versión.
+- Solicitar consentimiento y definir acceso, conservación y eliminación.
+- Registrar quién aplica el instrumento y su relación con los participantes.
+
+1. REGISTRO PARA UN EXPERIMENTO CONTROLADO
+
+Pregunta propuesta: ¿usar una lista de revisión reduce los errores de
+completitud al preparar un conjunto de datos?
+
+Unidad: participante que resuelve una tarea equivalente.
+Variable independiente: acceso a la lista (sí/no).
+Resultados: campos obligatorios vacíos que permanecen tras la revisión;
+tiempo de la tarea en segundos. No confundir velocidad con calidad.
+Definición de campo vacío: ausencia de contenido tras normalizar espacios.
+Excluir campos no aplicables según una regla definida antes del estudio.
+
+Protocolo:
+1) Usar datos de prueba sin información personal.
+2) Definir el mismo esquema, instrucciones, plazo y condiciones.
+3) Registrar experiencia previa con una medida acordada.
+4) Asignar participantes al azar a las condiciones.
+5) Aplicar una regla común para contar errores y medir el tiempo.
+6) Conservar abandonos y datos incompletos con motivo, sin excluirlos
+   solo porque no favorecen la hipótesis.
+7) Informar la diferencia estimada y su incertidumbre. Considerar la
+   experiencia previa, la dependencia de tareas y los tamaños de grupo.
+
+Ficha vacía:
+Código anónimo:
+Fecha:
+Versión del protocolo:
+Condición asignada:
+Experiencia previa (medida definida):
+Código de tarea:
+Número de campos obligatorios evaluados:
+Número de campos vacíos al finalizar:
+Tiempo en segundos:
+Incidencia o dato faltante:
+Observaciones:
+
+No se incluyen resultados ficticios.
+
+2. CUESTIONARIO TRANSVERSAL EXPLORATORIO
+
+Propósito: explorar carga de trabajo y calidad percibida de los datos.
+Periodo de referencia: últimas dos semanas.
+Participación voluntaria. No escribir nombres ni datos de clientes.
+
+Opciones para cada ítem: nunca / rara vez / a veces / con frecuencia /
+siempre / no aplica. Registrar “no aplica” aparte, sin convertirlo en cero.
+
+En las últimas dos semanas:
+1) ¿Con qué frecuencia recibiste datos con campos obligatorios vacíos?
+2) ¿Con qué frecuencia debiste interrumpir otra tarea para corregirlos?
+3) ¿Con qué frecuencia tuviste tiempo suficiente para revisar los datos?
+4) ¿Con qué frecuencia encontraste instrucciones claras para corregirlos?
+5) ¿Con qué frecuencia consideraste que los datos estaban listos para su uso?
+
+Código anónimo:
+Fecha:
+Respuestas 1 a 5:
+Comentario opcional, sin información personal:
+
+Los ítems son originales y exploratorios. No sumarlos para crear una escala
+“validada”. Describir cada ítem, su distribución y los datos faltantes.
+Las respuestas son ordinales y de percepción. No miden por sí solas la
+calidad real ni permiten atribuir causas.
+
+3. GUÍA DE ENTREVISTA SOBRE EXPERIENCIAS
+
+Propósito: comprender la experiencia de corregir datos incompletos.
+Participantes: personas que hayan vivido la situación.
+Diseño posible: fenomenológico, con adaptación al planteamiento concreto.
+La guía también puede adaptarse a otros diseños; no los define por sí sola.
+
+Inicio:
+- Explicar el propósito y el uso de la información.
+- Confirmar consentimiento y autorización específica para grabar.
+- Explicar el derecho a no responder o a retirarse.
+- Evitar recoger nombres de clientes, contraseñas o detalles sensibles.
+
+Preguntas:
+1) Cuéntame una ocasión reciente en que recibiste datos incompletos.
+2) ¿Qué ocurrió desde que identificaste el problema hasta que lo resolviste?
+3) ¿Cómo viviste esa situación? ¿Qué fue lo más significativo para ti?
+4) ¿Cómo decidiste qué hacer y a quién acudir?
+5) ¿Qué aspectos de tu contexto facilitaron o dificultaron tu trabajo?
+6) ¿Hay algo de esa experiencia que no te haya preguntado y quieras explicar?
+
+Repreguntas: ¿puedes dar un ejemplo? ¿qué ocurrió después?
+Evitar: “¿la mala gestión del equipo causó el problema?”.
+
+Cierre: resumir lo entendido y permitir aclaraciones.
+Registro: código, fecha, contexto, duración, consentimiento, transcripción
+y notas reflexivas. Separar las palabras del participante de la
+interpretación. Las categorías se construyen con evidencia; no se
+declara saturación de forma automática.
+
+4. DIARIO DE CAMPO Y OBSERVACIÓN
+
+Propósito: estudiar prácticas de revisión de datos en su contexto.
+Uso posible: estudio etnográfico o de caso, con acceso y alcance acordados.
+
+Código de sesión:
+Fecha y duración:
+Contexto y actividad:
+Rol del observador:
+Participantes identificados solo mediante códigos:
+Consentimiento y límites del acceso:
+
+A. Descripción
+¿Qué ocurrió? ¿Quién hizo qué? ¿Qué palabras, reglas o artefactos se usaron?
+Registrar acciones y citas autorizadas, sin incluir datos sensibles.
+
+B. Interpretación inicial
+¿Qué podría significar lo observado? ¿Qué evidencia lo sostiene?
+¿Qué otra explicación es posible?
+
+C. Reflexividad
+¿Cómo pudo influir mi presencia o mi relación con el equipo?
+¿Qué supuse antes de observar?
+
+D. Contraste
+¿Qué documento, entrevista u observación puede apoyar o contradecir
+la interpretación? ¿Qué no pude observar?
+
+E. Siguiente decisión
+¿Qué conviene observar o preguntar después y por qué?
+
+Para investigación-acción, añadir: problema acordado, decisión colectiva,
+acción aplicada, responsables, indicadores, evaluación y ajuste del ciclo.
+
+REFERENCIAS
+Hernández-Sampieri, R., & Mendoza Torres, C. P. (2018). Metodología de la
+investigación: Las rutas cuantitativa, cualitativa y mixta.
+McGraw-Hill Interamericana.
+
+Ñaupas Paitán, H., Valdivia Dueñas, M. R., Palacios Vilela, J. J., &
+Romero Delgado, H. E. (2018). Metodología de la investigación
+cuantitativa-cualitativa y redacción de la tesis (5.ª ed.). Ediciones de la U.

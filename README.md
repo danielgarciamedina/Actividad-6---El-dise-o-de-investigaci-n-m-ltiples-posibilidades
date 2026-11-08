@@ -1,39 +1,31 @@
-# Actividad 6 - El diseño de investigación: múltiples posibilidades
+# Una pregunta, múltiples caminos
 
-Blog estático para la actividad de Competencias Investigativas.
+Blog de **Daniel Garcia Medina** para Competencias investigativas, Unidad II, Actividad 6. Docente: Gloria Rubio.
 
-Tema: diseños de investigación cuantitativos, cualitativos y mixtos.
+**Sitio:** https://danielgarciamedina.github.io/Actividad-6---El-dise-o-de-investigaci-n-m-ltiples-posibilidades/
 
-## Publicación con GitHub Pages
+## Contenido
 
-Repositorio: `CaptainKranch/Actividad-6---El-dise-o-de-investigaci-n-m-ltiples-posibilidades`
+- Marco conceptual basado en las lecturas del módulo.
+- Diseños cuantitativos y cualitativos con ejemplos didácticos.
+- Comparación de enfoques y criterios de calidad.
+- Ocho artículos empíricos de 2017 a 2023 con DOI y límites de interpretación.
+- Selector de diseños, filtros de artículos y ejercicio con respuesta.
+- Cuatro modelos de instrumentos en [instrumentos.txt](instrumentos.txt).
+- Dos videos principales y un recurso audiovisual complementario.
+- Citas y referencias APA 7.
+- Texto y plantillas para el foro en [FORO.md](FORO.md).
 
-URL publicada con GitHub Pages:
+## Uso y publicación
 
-https://danielgarciamedina.github.io/Actividad-6---El-dise-o-de-investigaci-n-m-ltiples-posibilidades/
+Sitio estático sin dependencias. Abrir index.html en un navegador.
 
-Nota: el repositorio original de CaptainKranch está vacío pero la cuenta autenticada localmente solo tiene permiso READ allí; por eso se publicó una copia funcional bajo `danielgarciamedina`.
+GitHub Pages publica la raíz de la rama main. El archivo .nojekyll permite servir los archivos sin procesarlos con Jekyll. Los cambios en index.html, styles.css y app.js se publican al actualizar esa rama.
 
-## Contenido incluido
+La información principal se puede leer sin JavaScript. Los selectores y filtros requieren JavaScript. La impresión muestra los artículos completos.
 
-- Presentación e introducción.
-- Conceptos principales de diseños cuantitativos, cualitativos y mixtos.
-- Tabla de semejanzas y diferencias.
-- Ejemplos de artículos académicos recientes publicados en Nature, Science, ACM Digital Library y Proceedings of Machine Learning Research.
-- Técnicas e instrumentos de recolección de datos.
-- Recursos audiovisuales para diseño cuantitativo y cualitativo.
-- Texto listo para publicar en el foro.
-- Dos comentarios modelo para retroalimentar blogs de compañeros.
-- Referencias en formato APA 7.
+## Alcance académico
 
-## Desarrollo local
+La búsqueda fue dirigida, no sistemática. Las fichas indican si se consultó el artículo abierto o solo su resumen y registro. Los ejemplos propios y los instrumentos didácticos no se presentan como estudios realizados ni como escalas validadas.
 
-Abrir `index.html` en un navegador o servir la carpeta con cualquier servidor estático.
-
-Ejemplo con Node:
-
-```bash
-npx serve .
-```
-
-No requiere dependencias para funcionar.
+La actividad solicita grupos de tres a cinco integrantes. Esta versión registra la autoría individual de Daniel Garcia Medina. El docente debe aceptar esta modalidad. La participación en el foro y la valoración de dos blogs siguen pendientes hasta que el estudiante las realice.

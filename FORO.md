@@ -1,21 +1,86 @@
-# Texto listo para publicar en el foro
+# Texto para publicar en el foro
 
-Buen día, compañeros y docente.
+Buen día, profesora Gloria y compañeros.
 
-Comparto el enlace de nuestro blog digital sobre el diseño de investigación y sus múltiples posibilidades:
+Comparto mi blog digital **Una pregunta, múltiples caminos**, elaborado para la Actividad 6: El diseño de investigación, múltiples posibilidades.
 
 https://danielgarciamedina.github.io/Actividad-6---El-dise-o-de-investigaci-n-m-ltiples-posibilidades/
 
-En el blog se presentan los conceptos principales de los diseños cuantitativos, cualitativos y mixtos; una comparación entre sus semejanzas y diferencias; ejemplos de artículos académicos recientes relacionados con ciencia de datos, inteligencia artificial y tecnología; técnicas e instrumentos de recolección de datos; recursos audiovisuales y referencias en formato APA.
+El blog presenta los diseños cuantitativos y cualitativos, sus semejanzas y diferencias, y ocho artículos académicos publicados entre 2017 y 2023. Los ejemplos se relacionan con la ingeniería de software y los sistemas de información. Cada ficha identifica el diseño, los datos, las técnicas, los instrumentos descritos y los límites del estudio.
 
-La idea central del blog es mostrar que no existe un diseño “mejor” en términos absolutos: la elección depende de la pregunta de investigación, el tipo de datos requeridos, el propósito del estudio y el nivel de profundidad o medición que se necesita alcanzar.
+El contenido se apoya en Hernández-Sampieri y Mendoza Torres (2018, caps. 7 y 14) y en Ñaupas Paitán et al. (2018, cap. IX). Incluye un selector de diseños, esquemas, modelos de instrumentos, videos y referencias APA 7.
 
-Quedo atento a sus comentarios, preguntas y sugerencias. Muchas gracias.
+Mi conclusión es que la pregunta debe orientar el diseño. Para evaluar un efecto, se necesita controlar otras explicaciones. Para comprender una experiencia, se necesita estudiar sus significados y su contexto. Las dos rutas requieren rigor y cuidado de las personas.
 
-## Comentario modelo 1 para otro blog
+Como pregunta para la conversación: si una herramienta reduce el tiempo de trabajo, pero aumenta los errores, ¿qué datos necesitaríamos antes de recomendar su uso?
 
-Buen día, compañeros. Considero que el blog presenta una organización clara y permite comprender con facilidad los diseños de investigación abordados. Destaco el uso de ejemplos y recursos visuales, porque ayudan a relacionar la teoría con situaciones reales. Como aspecto a mejorar, podrían ampliar un poco la explicación de los instrumentos de recolección de datos para cada diseño. En general, mi valoración es 5/5 por su claridad, pertinencia y presentación.
+Presento esta actividad de forma individual.
 
-## Comentario modelo 2 para otro blog
+Gracias por sus comentarios y preguntas.
 
-Buen día. Me pareció valioso que el blog conecte los contenidos del módulo con ejemplos académicos recientes. La presentación gráfica es agradable y la información es pertinente. Como sugerencia, sería útil incluir una tabla comparativa más directa entre los diseños cuantitativos y cualitativos, para facilitar la lectura rápida. Mi valoración es 4.5/5, porque cumple muy bien con los criterios y solo haría ese ajuste menor.
+Cordialmente,
+Daniel Garcia Medina
+
+## Referencias del mensaje
+
+Hernández-Sampieri, R., & Mendoza Torres, C. P. (2018). *Metodología de la investigación: Las rutas cuantitativa, cualitativa y mixta*. McGraw-Hill Interamericana.
+
+Ñaupas Paitán, H., Valdivia Dueñas, M. R., Palacios Vilela, J. J., & Romero Delgado, H. E. (2018). *Metodología de la investigación cuantitativa-cualitativa y redacción de la tesis* (5.ª ed.). Ediciones de la U.
+
+---
+
+# Guía para comentar dos blogs
+
+Estos comentarios deben completarse **después de leer los blogs reales**. No son valoraciones realizadas. Sustituye los campos entre corchetes y elimina las instrucciones antes de publicar.
+
+## Blog 1: comentario centrado en el contenido
+
+Buen día, [nombre del grupo].
+
+Revisé su blog, [título y enlace]. Destaco [fortaleza concreta], que se observa en [sección o ejemplo]. Este recurso ayuda a comprender [concepto].
+
+Sugiero [mejora concreta], porque [argumento vinculado con un criterio de la rúbrica]. Una pregunta que me surge es: [pregunta relacionada con su contenido].
+
+Mi valoración es [nota entre 1 y 5]/5. La fundamento en [evidencias de recursos didácticos, bibliografía, presentación, estructura, contenido y redacción].
+
+Gracias por compartir su trabajo.
+
+Cordialmente,
+Daniel Garcia Medina
+
+## Blog 2: comentario centrado en el diseño y los instrumentos
+
+Buen día, [nombre del grupo].
+
+En su blog, [título y enlace], me resultó útil [recurso o explicación específica]. La relación entre [diseño] y [técnica o instrumento] se aprecia en [evidencia].
+
+Como mejora, propongo [acción precisa y justificada]. Quisiera saber [pregunta que permita ampliar o aclarar un aspecto del blog].
+
+Mi valoración es [nota entre 1 y 5]/5, de acuerdo con [fortalezas y limitaciones observadas en los criterios de la rúbrica].
+
+Gracias por su aporte.
+
+Cordialmente,
+Daniel Garcia Medina
+
+## Modelo para responder una pregunta recibida
+
+Buen día, [nombre].
+
+Gracias por tu pregunta sobre [tema]. [Respuesta directa]. En el ejemplo del blog, [explicación con evidencia]. Esta interpretación se apoya en [autor, año y fuente].
+
+[Si corresponde: aclaración de un límite o descripción de la corrección que sí se realizó.]
+
+Cordialmente,
+Daniel Garcia Medina
+
+## Registro de participación pendiente
+
+| Acción | Evidencia que debes conservar |
+| --- | --- |
+| Publicar el enlace del blog | Enlace o captura de la intervención en el foro |
+| Leer y comentar el primer blog | Enlace del blog y del comentario con nota justificada |
+| Leer y comentar el segundo blog | Enlace del blog y del comentario con nota justificada |
+| Responder las preguntas recibidas | Enlaces a las respuestas |
+
+No se ha publicado ningún mensaje en el campus ni se han evaluado blogs de compañeros.
